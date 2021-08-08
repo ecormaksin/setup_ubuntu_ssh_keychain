@@ -1,0 +1,4 @@
+[submodule "file"]
+	path = file
+	url = git@github.com:ecormaksin/keychain_ssh_keys.git
+	ignore = dirty
